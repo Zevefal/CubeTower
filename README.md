@@ -1,1 +1,1 @@
-Zenject, SaveSystem json, Observer, SO, DOTween, 
+Zenject, SaveSystem json, Observer, SO, DOTween, UnityLocalization
